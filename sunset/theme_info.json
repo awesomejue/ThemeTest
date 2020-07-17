@@ -1,0 +1,11 @@
+{
+	"themeID" : "sunset20200713",
+    "themeName": "日落",
+	"themeVersion": "0.0.1",
+	"startTime": "2020-07-10",
+	"endTime": "2020-07-19",
+	"autoLoad": false,
+	"themeVisible": true,
+    "themePriority": 1000,
+    "themeMD5": "25f9e794323b453885f5181f1b624d0b",
+}
