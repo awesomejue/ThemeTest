@@ -1,7 +1,7 @@
 {
 	"color": {
-		"common_level1_base_color": "0xFF000000",
-		"common_level2_base_color": "0xFFFFFFFF",
+		"common_level1_base_color": "0xFFFFFCEA",
+		"common_level2_base_color": "0xFF000000",
 		"common_level3_base_color": "0x66191F25",
 		"common_level4_base_color": "0x47191F25",
 		"common_level5_base_color": "0x29191F25",
